@@ -54,7 +54,6 @@ public class Utils {
     }
 
     public static void main(String[] args) {
-        // Example usage:
         String filePath = "C:\\filename.txt";
         String fileContent = readContentFromFile(filePath);
         System.out.println("Content of the file:\n" + fileContent);
